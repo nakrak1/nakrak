@@ -37,5 +37,5 @@ __굵게__
 [표현할 텍스트](연결할 주소)
 [네이버](https://naver.com)
 
-![설명](연결할 이미지 주소)
-![고양이](https://![cat](https://imgur.com/2y3lrfE)
+! [설명](연결할 이미지 주소)
+! [고양이](https://![cat](https://imgur.com/2y3lrfE)
