@@ -1,16 +1,41 @@
-## Hi there 👋
+# 제목1
+## 제목2
 
-<!--
-**nakrak1/nakrak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+수평선
+***
 
-Here are some ideas to get you started:
+문장1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+문장2
+
+문장1  문장2
+**굵게**
+
+__굵게__
+> 첫번째 인용문
+>> 두번째 인용문
+>>> 세번째 인용
+
+
+1. 첫번째
+   1. 첫번째의 첫
+   2. 첫번째의 두번쨰
+2. 두번째
+3. 세번쨰
+
+* 목록
+
+`(백틱) 한개씩으로 시작과 끝을 감싸줌
+`print('hello')`
+
+```
+코드블록
+
+```
+링크
+[표현할 텍스트](연결할 주소)
+[네이버](https://naver.com)
+
+![설명](연결할 이미지 주소)
+![고양이](https://![cat](https://imgur.com/2y3lrfE)
