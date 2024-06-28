@@ -39,4 +39,4 @@ __굵게__
 
 ! [설명](연결할 이미지 주소)
 
-![고양이]([https://![cat](https://imgur.com/2y3lrfE](https://i.imgur.com/2y3lrfE.jpeg))
+![고양이]([https://(https://imgur.com/2y3lrfE](https://i.imgur.com/2y3lrfE.jpeg))
